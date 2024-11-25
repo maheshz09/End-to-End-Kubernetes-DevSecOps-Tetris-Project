@@ -1,5 +1,5 @@
-vpc-name            = "default"
-igw-name            = "default-igw"
+vpc-name            = "eks-vpc"
+igw-name            = "eks-igw"
 subnet-name         = "subnet-1"
 subnet-name2        = "subnet-2"
 security-group-name = "all-access"
